@@ -1,10 +1,10 @@
-# Stream wrapper #
+# Wrapper stream#
 
 Io.js and nodejs stream wrapper stream. Good companion for coleccionista module.
 
 ### Usage ###
 ```js
-let Wrapper = require('stream-wrapper');
+let Wrapper = require('wrapper-stream');
 
 let stream = new Wrapper({
     prologue: "This string will be inserted in the begining of the stream",

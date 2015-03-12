@@ -1,5 +1,5 @@
 {
-  "name": "stream-wrapper",
+  "name": "wrapper-stream",
   "version": "0.1.0",
   "description": "Wraps stream and/or stream items with strings. Good companion for coleccionista module.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:velocityzen/stream-wrapper.git"
+    "url": "git@github.com:velocityzen/wrapper-stream.git"
   },
   "keywords": [
     "stream",
@@ -17,7 +17,7 @@
   "author": "Alexey Novikov (http://2dubs.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/velocityzen/stream-wrapper/issues"
+    "url": "https://github.com/velocityzen/wrapper-stream/issues"
   },
-  "homepage": "https://github.com/velocityzen/stream-wrapper"
+  "homepage": "https://github.com/velocityzen/wrapper-stream"
 }
